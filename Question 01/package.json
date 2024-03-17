@@ -1,0 +1,15 @@
+{
+  "name": "question-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hassaan Arain",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  }
+}
