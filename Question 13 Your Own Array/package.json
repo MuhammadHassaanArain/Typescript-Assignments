@@ -1,0 +1,14 @@
+{
+  "name": "question-13-your-own-array",
+  "version": "1.0.0",
+  "description": "question 13 of 45 questions assigment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassaan Arain",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  }
+}
