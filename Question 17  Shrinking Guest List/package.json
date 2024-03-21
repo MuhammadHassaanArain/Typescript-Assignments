@@ -1,0 +1,15 @@
+{
+  "name": "question-17-shrinking-guest-list",
+  "version": "1.0.0",
+  "description": "question 17 of 45 questions assignment.",
+  "main": "index.js",
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassaan Arain",
+  "license": "MIT"
+}
